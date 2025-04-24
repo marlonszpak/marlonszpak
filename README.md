@@ -1,4 +1,4 @@
-# Ola! eu sou o Marlon Szpak 👋
+# Marlon Szpak 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-szpak-3865b4229/)
 
@@ -14,5 +14,3 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
-
-##### Explorando o vasto universo da tecnologia, onde cada linha de código é uma oportunidade de inovação e aprendizado constante.
